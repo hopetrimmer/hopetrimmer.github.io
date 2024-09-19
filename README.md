@@ -1,3 +1,2 @@
 # hopetrimmer.github.io
-This is for my Data Journalism class.
-My name is Hope Trimmer, and I'm a sophomore at Lehigh University studying journalism.
+My name is Hope Trimmer, and I'm a sophomore at Lehigh University studying journalism. I made this account for my Data Journalsim class.
