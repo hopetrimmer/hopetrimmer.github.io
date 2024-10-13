@@ -9,4 +9,5 @@ I created this infographic for my data journalism class using Canva. The data re
 ## Lehigh Women's Cross Country Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UekH3S_3GTpiLkBEgOujyj6znY-Z3wE0dgI-8ytH-Fg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## Chart Builder Practice Project
 ![Practice](https://github.com/hopetrimmer/hopetrimmer.github.io/blob/main/Lehigh_Percentage_of_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
