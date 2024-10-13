@@ -11,3 +11,5 @@ I created this infographic for my data journalism class using Canva. The data re
 
 ## Chart Builder Practice Project
 ![Practice](https://github.com/hopetrimmer/hopetrimmer.github.io/blob/main/Lehigh_Percentage_of_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+## Lehigh University Ethnicities
+! [chartbuilder project] 
