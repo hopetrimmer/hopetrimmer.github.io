@@ -17,4 +17,6 @@ I created this infographic for my data journalism class using Canva. The data re
 ## Google Maps Practice Assignment
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1JrVYSq_ZDisHx7ONB6QSw2eTkrVOqqI&ehbc=2E312F" width="640" height="480"></iframe>
 
+## First Five Countries to Host the Olympics
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OJO4Ruem1YgbzfoK7wouMu2dWYlj-Nc&ehbc=2E312F" width="640" height="480"></iframe>
 
