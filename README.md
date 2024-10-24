@@ -14,7 +14,7 @@ I created this infographic for my data journalism class using Canva. The data re
 ## Lehigh University Ethnicities
 [Chart Builder Project](https://github.com/hopetrimmer/hopetrimmer.github.io/blob/main/Lehigh_University_Ethnicities_Undergrad__Grad_chartbuilder%20(2).png)
 
-
+## Google Maps Practice Assignment
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1JrVYSq_ZDisHx7ONB6QSw2eTkrVOqqI&ehbc=2E312F" width="640" height="480"></iframe>
 
 
