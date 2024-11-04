@@ -1,6 +1,8 @@
 # hopetrimmer.github.io
 My name is Hope Trimmer, and I'm a sophomore at [Lehigh University](https://www2.lehigh.edu/) studying journalism. I made this account for my Data Journalsim class.
 
+! [photo](4FAA8DB2-1991-4365-836B-7BC0A8B2F41A_1_201_a.heic)
+
 ## Lehigh Admissions Infographic
 I created this infographic for my data journalism class using Canva. The data reflects admissions statistics of the class of 2027 and was derived from [Lehigh University Data Center](https://www1.lehigh.edu/admissions/admission-statistics).
 
