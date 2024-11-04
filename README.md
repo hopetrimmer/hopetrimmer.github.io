@@ -21,3 +21,5 @@ Here is a timeline of the the first five meets of the Lehigh Womens' Cross Count
 ## First Five Countries to Host the Olympics
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OJO4Ruem1YgbzfoK7wouMu2dWYlj-Nc&ehbc=2E312F" width="640" height="480"></iframe>
 
+## Tableau Practice - Party Data
+Sheet 1 (1).png
